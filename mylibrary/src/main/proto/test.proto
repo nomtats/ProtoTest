@@ -1,0 +1,5 @@
+option java_package = "com.nomtats.prototest";
+
+message PersionProto {
+  required string name = 1;
+}
